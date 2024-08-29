@@ -1,0 +1,36 @@
+{
+  "coupons": [
+    {
+      "id": "1",
+      "code": "BOBA10",
+      "description": "10% de desconto em qualquer pedido de bubble tea.",
+      "discount_percentage": 10,
+      "valid_until": "2024-09-30",
+      "terms_and_conditions": "Válido apenas para compras acima de R$ 20. Não cumulativo com outras promoções."
+    },
+    {
+      "id": "2",
+      "code": "BUY1GET1",
+      "description": "Compre um bubble tea e ganhe outro grátis.",
+      "discount_percentage": 100,
+      "valid_until": "2024-10-15",
+      "terms_and_conditions": "Válido apenas para o tamanho médio. O cupom deve ser apresentado no momento da compra."
+    },
+    {
+      "id": "3",
+      "code": "FREESHIP",
+      "description": "Frete grátis para pedidos acima de R$ 30.",
+      "discount_percentage": 0,
+      "valid_until": "2024-11-01",
+      "terms_and_conditions": "Aplicável somente para entregas na área de cobertura. Valor mínimo de compra: R$ 30."
+    },
+    {
+      "id": "4",
+      "code": "STUDENT15",
+      "description": "15% de desconto para estudantes.",
+      "discount_percentage": 15,
+      "valid_until": "2024-12-31",
+      "terms_and_conditions": "É necessário apresentar um documento de identificação estudantil válido. Não aplicável em combo e ofertas especiais."
+    }
+  ]
+}
